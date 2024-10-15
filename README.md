@@ -9,7 +9,6 @@ Este projeto tem como objetivo prever padrões de comportamento dos usuarios de 
 - [Como Executar](#como-executar)
 - [Resultados](#resultados)
 - [Ajuste de Hiperparâmetros](#ajuste-de-hiperparâmetros)
-- [Licença](#licença)
 
 
 ## Tecnologias Utilizadas
