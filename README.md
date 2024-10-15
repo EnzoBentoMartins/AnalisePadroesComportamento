@@ -6,7 +6,6 @@ Este projeto tem como objetivo prever padrões de comportamento dos usuarios de 
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Dados](#dados)
-- [Como Executar](#como-executar)
 - [Resultados](#resultados)
 - [Ajuste de Hiperparâmetros](#ajuste-de-hiperparâmetros)
 
